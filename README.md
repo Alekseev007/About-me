@@ -17,6 +17,7 @@
 4. JIRA
 5. GIT
 6. Jmater
+7. Postman
 
 
 ### Обо мне
